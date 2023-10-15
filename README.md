@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-## About Me
-
 Hello, I'm Jobin Shery, a 3rd-year student at Karunya Institute of Technology and Sciences. I have a keen interest in web development, and I'm passionate about creating web applications that make a difference. In addition to coding, I enjoy working on photo editing projects and exploring creative design.
 
 ## Education
